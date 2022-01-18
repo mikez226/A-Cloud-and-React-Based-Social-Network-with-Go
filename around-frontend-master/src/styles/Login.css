@@ -1,9 +1,0 @@
-/*居中Form，并让button与输入框宽度相同*/
-.login-form {
-    width: 500px;
-    margin: 0 auto;
-}
-
-.login-btn {
-    width: 333px;
-}
