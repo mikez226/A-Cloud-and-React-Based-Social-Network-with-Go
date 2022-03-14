@@ -25,3 +25,8 @@
 * Golang
 * Elasticsearch
 
+# License
+Distributed under the MIT License.
+
+# Contacts
+zhuangmengqi226@outlook.com
